@@ -55,3 +55,7 @@ npm start
 
 
 ## Screens
+![Login](https://github.com/dumpacson/Solidity-Voting-dApp/blob/bfa5ea11598fcb3512e4827284824612e522e716/screens/Login.png "Login")
+![Voting](https://github.com/dumpacson/Solidity-Voting-dApp/blob/bfa5ea11598fcb3512e4827284824612e522e716/screens/Voting.png "Voting")
+![Voted](https://github.com/dumpacson/Solidity-Voting-dApp/blob/bfa5ea11598fcb3512e4827284824612e522e716/screens/Voted.png "Voted")
+![Voting Ended](https://github.com/dumpacson/Solidity-Voting-dApp/blob/bfa5ea11598fcb3512e4827284824612e522e716/screens/Voting%20Ended.png "Voting Ended")
