@@ -20,6 +20,9 @@ After cloning the repository, you first need to compile the contract and upload 
 cd hardhat-contract
 ```
 ```shell
+npm install
+```
+```shell
 npx hardhat compile
 ```
 ```shell
