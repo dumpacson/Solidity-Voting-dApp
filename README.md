@@ -28,7 +28,6 @@ npx hardhat compile
 ```shell
 npx hardhat run --network volta scripts/deploy.js
 ```
-<br></br>
 
 Once the contract is uploaded to the blockchain, copy the `contract_address` in the terminal and navigate to `hard-contract/.env` file and replace the `contract_address`.
 
@@ -48,7 +47,6 @@ cd solidity-voting-react2
 ```shell
 npm install
 ```
-<br></br>
 
 To run the app, simply run command
 
