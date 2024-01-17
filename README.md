@@ -22,9 +22,9 @@ npx hardhat run --network volta scripts/deploy.js
 ```
 <br></br>
 
-Once the contract is uploaded to the blockchain, copy the contract_address in the terminal and navigate to `shell hard-contract/.env` file and replace the contract_address
+Once the contract is uploaded to the blockchain, copy the contract_address in the terminal and navigate to `hard-contract/.env` file and replace the contract_address
 
-Navigate to `shell solidity-voting-react2/Constants/constant.js` file and replace the contract_address there too
+Navigate to `solidity-voting-react2/src/Constants/constant.js` file and replace the contract_address there too
 
 You can also use another blockchain by initializing the blockchain's endpoint in hardhat-config.
 <br></br>
