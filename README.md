@@ -49,7 +49,7 @@ cd solidity-voting-react2
 npm install
 ```
 
-To run the app, simply run command
+To run the app, simply run command:
 
 ```shell
 npm start
