@@ -11,7 +11,7 @@ Connect your metamask to the Volta Testnet RPC: [Energy Web: How to connect Meta
 
 Volta Test Tokens are required to compile & upload the contract to the testnet, you can request for Volta Tokens here: [Energy Web Volta Testnet Taucet](https://voltafaucet.energyweb.org/)
 
-Once your metamask is connected the Volta Testnet RPC, go to the metamask browser extension, click the 3 dots icon on the top right, click on 'Account Details', click on 'Show Private Key', copy the Private Key and navigate to `hard-contract/.env` file and replace the `PRIVATE_key`
+Once your metamask is connected the Volta Testnet RPC, go to the metamask browser extension, click the `3 dots` icon on the top right, click on `Account Details`, click on `Show Private Key`, copy the Private Key and navigate to `hard-contract/.env` file and replace the `PRIVATE_key`
 <br></br>
 
 After cloning the repository, you first need to compile the contract and upload it to the blockchain network. Run the following commands to compile and upload the contract.
