@@ -7,7 +7,7 @@ This is a demo application to implement voting in solidity smart contract using 
 
 Make sure your browser is connected to a Metamask wallet.
 
-And connect your metamask to the Volta Testnet RPC: [Energy Web: How to connect Metamask to the Volta Testnet RPC](https://youtu.be/ThKW18ZZalg?si=hWgnxn--OvMPN1HH)
+Connect your metamask to the Volta Testnet RPC: [Energy Web: How to connect Metamask to the Volta Testnet RPC](https://youtu.be/ThKW18ZZalg?si=hWgnxn--OvMPN1HH)
 
 Volta Test Tokens are required to compile & upload the contract to the testnet, you can request for Volta Tokens here: [Energy Web Volta Testnet Taucet](https://voltafaucet.energyweb.org/)
 
