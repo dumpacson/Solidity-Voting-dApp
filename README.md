@@ -1,7 +1,7 @@
 # Solidity-Voting-dApp
 
-This is a demo application to implement voting in solidity smart contract using ReactJS. 
-
+This is a demo application to implement voting in solidity smart contract using ReactJS.
+<br></br>
 
 ## Installation
 
@@ -20,12 +20,14 @@ npx hardhat compile
 ```shell
 npx hardhat run --network volta scripts/deploy.js
 ```
+<br></br>
 
 Once the contract is uploaded to the blockchain, copy the contract_address in the terminal and navigate to `shell hard-contract/.env` file and replace the contract_address
 
 Navigate to `shell solidity-voting-react2/Constants/constant.js` file and replace the contract_address there too
 
 You can also use another blockchain by writing the blockchain's endpoint in hardhat-config.
+<br></br>
 
 Then, install the packages by running the following commands: 
 
@@ -38,6 +40,7 @@ cd solidity-voting-react2
 ```shell
 npm install
 ```
+<br></br>
 
 To run the app, simply run command
 
