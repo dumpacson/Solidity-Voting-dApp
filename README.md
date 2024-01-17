@@ -26,7 +26,7 @@ Once the contract is uploaded to the blockchain, copy the contract_address in th
 
 Navigate to `shell solidity-voting-react2/Constants/constant.js` file and replace the contract_address there too
 
-You can also use another blockchain by writing the blockchain's endpoint in hardhat-config.
+You can also use another blockchain by initializing the blockchain's endpoint in hardhat-config.
 <br></br>
 
 Then, install the packages by running the following commands: 
