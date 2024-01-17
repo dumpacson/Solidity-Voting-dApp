@@ -37,7 +37,7 @@ Navigate to `solidity-voting-react2/src/Constants/constant.js` file and replace 
 You can also use another blockchain by initializing the blockchain's endpoint in hardhat-config.
 <br></br>
 
-Then, install the packages by running the following commands: 
+Then, install the packages for the react-app by running the following commands: 
 
 ```shell
 cd ..
