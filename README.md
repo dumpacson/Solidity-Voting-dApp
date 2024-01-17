@@ -47,3 +47,7 @@ To run the app, simply run command
 ```shell
 npm start
 ```
+<br></br>
+
+
+## Screens
