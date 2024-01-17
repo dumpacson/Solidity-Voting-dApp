@@ -23,9 +23,6 @@ cd hardhat-contract
 npm install
 ```
 ```shell
-npx hardhat compile
-```
-```shell
 npx hardhat run --network volta scripts/deploy.js
 ```
 <br></br>
